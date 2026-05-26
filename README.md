@@ -89,6 +89,26 @@ For melanoma detection, recall is prioritized to avoid false negatives.
  - Upload in Google Drive 
  - Download the code and run in Google Colab
 
+---
+
+
+## Related Blog and Research PDF
+
+### This repository supports the blog post:
+
+How I built a beginner-friendly skin-cancer detector
+
+https://debabratapruseth.com/how-i-built-a-beginner-friendly-skin-cancer-detector/
+
+### Research-style title:
+
+Research PDF: 
+https://debabratapruseth.com/wp-content/uploads/Deep-Learning-for-Skin-Cancer-Detection-A-Practical-Framework-for-Automated-Skin-Lesion-Classification.pdf
+
+### If you reference this project, please cite:
+
+Pruseth, D. (2025). Deep Learning for Skin Cancer Detection: A Practical Framework for Automated Skin Lesion Classification.
+
  ---
 
  
